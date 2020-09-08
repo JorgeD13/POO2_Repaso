@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Jorge/CLionProjects/Training/src/Hash/Hash.h
+../lib.h
+C:/Users/Jorge/CLionProjects/Training/src/lib.h
+
+C:/Users/Jorge/CLionProjects/Training/src/ejercicios.cpp
+ejercicios.h
+C:/Users/Jorge/CLionProjects/Training/src/ejercicios.h
+
+C:/Users/Jorge/CLionProjects/Training/src/ejercicios.h
+funciones.h
+C:/Users/Jorge/CLionProjects/Training/src/funciones.h
+Hash/Hash.h
+C:/Users/Jorge/CLionProjects/Training/src/Hash/Hash.h
+graph/graph.h
+C:/Users/Jorge/CLionProjects/Training/src/graph/graph.h
+
+C:/Users/Jorge/CLionProjects/Training/src/funciones.h
+lib.h
+C:/Users/Jorge/CLionProjects/Training/src/lib.h
+
+C:/Users/Jorge/CLionProjects/Training/src/graph/graph.h
+../lib.h
+C:/Users/Jorge/CLionProjects/Training/src/lib.h
+
+C:/Users/Jorge/CLionProjects/Training/src/lib.h
+iostream
+-
+vector
+-
+list
+-
+queue
+-
+algorithm
+-
+limits
+-
+
